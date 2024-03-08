@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey! 👋 I'm Sercan
+<br>
 
-<!--
-**mehmed621/mehmed621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* 🌱 I’m currently learning Node.js
+* ✉️  You can contact me from [mehmetmantk@gmail.com](mailto:mehmetmantk@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
+
+### Frameworks / Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,laravel,sass,materialui,jest)](https://skillicons.dev)
+
+### Tools / Databases
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,webpack,graphql,mysql,mongodb,firebase)](https://skillicons.dev)
